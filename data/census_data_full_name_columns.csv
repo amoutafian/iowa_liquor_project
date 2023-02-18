@@ -1,0 +1,11 @@
+county,"population, US Census, April 1, 2020","per capita income in past 12 months (in 2021 dollars), 2017-2021","median household income (in 2021 dollars), 2017-2021","bachelor's degree or higher, percent of persons age 25 years+, 2017-2021",id,raw_county
+POLK,"492,401","$38,475","$73,015",38.00%,1,Polk County
+LINN,"230,299","$38,106","$70,360",34.30%,2,Linn County
+SCOTT,"174,669","$38,044","$67,675",33.60%,3,Scott County
+JOHNSON,"152,854","$38,887","$67,414",54.10%,4,Johnson County
+BLACK HAWK,"131,144","$32,579","$57,191",29.50%,5,Black Hawk County
+WOODBURY,"105,941","$30,206","$63,061",23.30%,6,Woodbury County
+DUBUQUE,"99,266","$35,816","$68,198",32.10%,7,Dubuque County
+STORY,"98,537","$33,211","$62,578",51.10%,8,Story County
+DALLAS,"99,678","$47,488","$93,492",50.40%,9,Dallas County
+POTTAWATTAMIE,"93,667","$31,923","$63,840",22.90%,10,Pottawattamie County

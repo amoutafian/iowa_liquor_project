@@ -1,0 +1,117 @@
+"Population, Census, April 1, 2020
+Resident population from decennial census
+Source: U.S. Census Bureau, 2020 Census of Population and Housing, updated every 10 years. Decennial Census by Decades
+
+Definitions:
+
+The resident population of a specific geographic location includes all people living in that location at the time of the census. Since the first decennial census in 1790, people have been counted at their ""usual residence,"" which is the place where they live and sleep most of the time. This place is not always the same as a person's legal residence, voting residence, or where they prefer to be counted.
+
+The 2020 Census resident population also includes military and civilian employees of the U.S. government who are deployed outside the United States (while stationed or assigned in the United States) and can be allocated to a usual residence address in the United States based on administrative records from the Department of Defense.
+
+For more information, please read the Residence Criteria and Residence Situations for the 2020 Census of the United States
+
+Scope and Methodology:
+
+Place of residence was derived from answers to questions that were asked of all people in the 2020 Census.
+
+For more information, please read the 2020 Census Redistricting Data (Public Law 94-171) Summary File Technical Documentation","Per capita income in past 12 months (in 2021 dollars), 2017-2021
+Per Capita Income
+
+Sources: U.S. Census Bureau, American Community Survey (ACS) and Puerto Rico Community Survey (PRCS), 5-Year Estimates. The PRCS is part of the Census Bureau's ACS, customized for Puerto Rico. Both Surveys are updated every year.
+
+Definition
+
+Per capita income is the mean income computed for every man, woman, and child in a particular group including those living in group quarters. It is derived by dividing the aggregate income of a particular group by the total population in that group. This measure is rounded to the nearest whole dollar. For the complete definition, go to ACS subject definitions ""Income in the Past 12 Months, Per Capita Income.""
+
+Source and Accuracy
+
+This Fact is based on data collected in the American Community Survey (ACS) and the Puerto Rico Community Survey (PRCS) conducted annually by the U.S. Census Bureau. A sample of over 3.5 million housing unit addresses is interviewed each year over a 12 month period. This Fact (estimate) is based on five years of ACS and PRCS sample data and describes the average value of person, household and housing unit characteristics over this period of collection.
+
+Statistics from all surveys are subject to sampling and nonsampling error. Sampling error is the uncertainty between an estimate based on a sample and the corresponding value that would be obtained if the estimate were based on the entire population (as from a census). Measures of sampling error are provided in the form of margins of error for all estimates included with ACS and PRCS published products. The Census Bureau recommends that data users incorporate this information into their analyses, as sampling error in survey estimates could impact the conclusions drawn from the results. The data for each geographic area are presented together with margins of error at Using margins of error. A more detailed explanation of margins of error and a demonstration of how to use them is provided below.
+
+For more information on sampling and estimation methodology, confidentiality, and sampling and nonsampling errors, please see the Multiyear Accuracy (US) and the Multiyear Accuracy (Puerto Rico) documents at ""Documentation - Accuracy of the data.""
+
+Margin of Error
+
+As mentioned above, ACS estimates are based on a sample and are subject to sampling error. The margin of error measures the degree of uncertainty caused by sampling error. The margin of error is used with an ACS estimate to construct a confidence interval about the estimate. The interval is formed by adding the margin of error to the estimate (the upper bound) and subtracting the margin of error from the estimate (the lower bound). It is expected with 90 percent confidence that the interval will contain the full population value of the estimate. The following example is for demonstrating purposes only. Suppose the ACS reported that the percentage of people in a state who were 25 years and older with a bachelor's degree was 21.3 percent and that the margin of error associated with this estimate was 0.7 percent. By adding and subtracting the margin of error from the estimate, we calculate the 90-percent confidence interval for this estimate:
+
+21.3% - 0.7% = 20.6% => Lower-bound estimate
+21.3% + 0.7% = 22.0% => Upper-bound estimate
+
+Therefore, we can be 90 percent confident that the percent of the population 25 years and older having a bachelor's degree in a state falls somewhere between 20.6 percent and 22.0 percent.
+
+For this Fact, its estimates and margins of error along with percents and percent margins of errors can be found on American Community Survey, Data Profiles-Economic Characteristics
+
+More Information
+
+Questions on the ACS form and why we ask
+ACS methodology
+Income data","Median household income (in 2021 dollars), 2017-2021
+Median Household Income
+
+Sources: U.S. Census Bureau, American Community Survey (ACS) and Puerto Rico Community Survey (PRCS), 5-Year Estimates. The PRCS is part of the Census Bureau's ACS, customized for Puerto Rico. Both Surveys are updated every year.
+
+Definition
+
+Income in the Past 12 Months - Income of Households: This includes the income of the householder and all other individuals 15 years old and over in the household, whether they are related to the householder or not. Because many households consist of only one person, average household income is usually less than average family income. Although the household income statistics cover the past 12 months, the characteristics of individuals and the composition of households refer to the time of interview. Thus, the income of the household does not include amounts received by individuals who were members of the household during all or part of the past 12 months if these individuals no longer resided in the household at the time of interview. Similarly, income amounts reported by individuals who did not reside in the household during the past 12 months but who were members of the household at the time of interview are included. However, the composition of most households was the same during the past 12 months as at the time of interview.
+
+The median divides the income distribution into two equal parts: one-half of the cases falling below the median income and one-half above the median. For households and families, the median income is based on the distribution of the total number of households and families including those with no income. The median income for individuals is based on individuals 15 years old and over with income. Median income for households, families, and individuals is computed on the basis of a standard distribution. For the complete definition, go to ACS subject definitions ""Income in the Past 12 Months.""
+
+Source and Accuracy
+
+This Fact is based on data collected in the American Community Survey (ACS) and the Puerto Rico Community Survey (PRCS) conducted annually by the U.S. Census Bureau. A sample of over 3.5 million housing unit addresses is interviewed each year over a 12 month period. This Fact (estimate) is based on five years of ACS and PRCS sample data and describes the average value of person, household and housing unit characteristics over this period of collection.
+
+Statistics from all surveys are subject to sampling and nonsampling error. Sampling error is the uncertainty between an estimate based on a sample and the corresponding value that would be obtained if the estimate were based on the entire population (as from a census). Measures of sampling error are provided in the form of margins of error for all estimates included with ACS and PRCS published products. The Census Bureau recommends that data users incorporate this information into their analyses, as sampling error in survey estimates could impact the conclusions drawn from the results. The data for each geographic area are presented together with margins of error at Using margins of error. A more detailed explanation of margins of error and a demonstration of how to use them is provided below.
+
+For more information on sampling and estimation methodology, confidentiality, and sampling and nonsampling errors, please see the Multiyear Accuracy (US) and the Multiyear Accuracy (Puerto Rico) documents at ""Documentation - Accuracy of the data.""
+
+Margin of Error
+
+As mentioned above, ACS estimates are based on a sample and are subject to sampling error. The margin of error measures the degree of uncertainty caused by sampling error. The margin of error is used with an ACS estimate to construct a confidence interval about the estimate. The interval is formed by adding the margin of error to the estimate (the upper bound) and subtracting the margin of error from the estimate (the lower bound). It is expected with 90 percent confidence that the interval will contain the full population value of the estimate. The following example is for demonstrating purposes only. Suppose the ACS reported that the percentage of people in a state who were 25 years and older with a bachelor's degree was 21.3 percent and that the margin of error associated with this estimate was 0.7 percent. By adding and subtracting the margin of error from the estimate, we calculate the 90-percent confidence interval for this estimate:
+
+21.3% - 0.7% = 20.6% => Lower-bound estimate
+21.3% + 0.7% = 22.0% => Upper-bound estimate
+
+Therefore, we can be 90 percent confident that the percent of the population 25 years and older having a bachelor's degree in a state falls somewhere between 20.6 percent and 22.0 percent.
+
+For this Fact, its estimates and margins of error along with percents and percent margins of errors can be found on American Community Survey, Data Profiles-Economic Characteristics
+
+More Information
+
+Questions on the ACS form and why we ask
+ACS methodology
+Income data","Bachelor's degree or higher, percent of persons age 25 years+, 2017-2021
+Bachelor's Degree or higher
+
+Sources: U.S. Census Bureau, American Community Survey (ACS) and Puerto Rico Community Survey (PRCS), 5-Year Estimates. The PRCS is part of the Census Bureau's ACS, customized for Puerto Rico. Both Surveys are updated every year.
+
+Definition
+
+High Persons with a Bachelor's Degree or Higher are those who have received a bachelor's degree from a college or university, or a master's, professional, or doctorate degree. For the complete definition, go to ACS subject definitions ""Educational Attainment.""
+
+These data shown here include only persons 25 years old and over. The percentages are obtained by dividing the number of persons whose highest degree or level of school completed was bachelor’s degree or higher  by the total number of persons 25 years old and over.
+
+Source and Accuracy
+
+This Fact is based on data collected in the American Community Survey (ACS) and the Puerto Rico Community Survey (PRCS) conducted annually by the U.S. Census Bureau. A sample of over 3.5 million housing unit addresses is interviewed each year over a 12 month period. This Fact (estimate) is based on five years of ACS and PRCS sample data and describes the average value of person, household and housing unit characteristics over this period of collection.
+
+Statistics from all surveys are subject to sampling and nonsampling error. Sampling error is the uncertainty between an estimate based on a sample and the corresponding value that would be obtained if the estimate were based on the entire population (as from a census). Measures of sampling error are provided in the form of margins of error for all estimates included with ACS and PRCS published products. The Census Bureau recommends that data users incorporate this information into their analyses, as sampling error in survey estimates could impact the conclusions drawn from the results. The data for each geographic area are presented together with margins of error at Using margins of error. A more detailed explanation of margins of error and a demonstration of how to use them is provided below.
+
+For more information on sampling and estimation methodology, confidentiality, and sampling and nonsampling errors, please see the Multiyear Accuracy (US) and the Multiyear Accuracy (Puerto Rico) documents at ""Documentation - Accuracy of the data.""
+
+Margin of Error
+
+As mentioned above, ACS estimates are based on a sample and are subject to sampling error. The margin of error measures the degree of uncertainty caused by sampling error. The margin of error is used with an ACS estimate to construct a confidence interval about the estimate. The interval is formed by adding the margin of error to the estimate (the upper bound) and subtracting the margin of error from the estimate (the lower bound). It is expected with 90 percent confidence that the interval will contain the full population value of the estimate. The following example is for demonstrating purposes only. Suppose the ACS reported that the percentage of people in a state who were 25 years and older with a bachelor's degree was 21.3 percent and that the margin of error associated with this estimate was 0.7 percent. By adding and subtracting the margin of error from the estimate, we calculate the 90-percent confidence interval for this estimate:
+
+21.3% - 0.7% = 20.6% => Lower-bound estimate
+21.3% + 0.7% = 22.0% => Upper-bound estimate
+
+Therefore, we can be 90 percent confident that the percent of the population 25 years and older having a bachelor's degree in a state falls somewhere between 20.6 percent and 22.0 percent.
+
+For this Fact, its estimates and margins of error along with percents and percent margins of errors can be found on American Community Survey, Data Profiles-Social Characteristics
+
+More Information
+
+Questions on the ACS form and why we ask
+ACS methodology
+Education data from other sources"
