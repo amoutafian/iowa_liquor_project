@@ -43,7 +43,7 @@ Track popularity of individual product across counties, markets, and over time f
 
 Track state profits across products and sales to identify least and most profitable
 
-Check whether liquor sales followed the school calendars of university sites like Johnson County for to prepare for demand and for promotion timing
+Check whether liquor sales followed the school calendars of university sites like Johnson County to prepare for demand and for promotion timing
 
 Quantify consistency of county purchasing patterns of vodka, whiskey and other liquors. 
 
