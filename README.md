@@ -12,6 +12,17 @@ data.iowa.gov
 Population Data: United States Census Bureau 
 https://www.census.gov/quickfacts/fact/table/IA/POP010220
 
+### Cleaning:
+Null checks
+Duplicate checks
+Filled missing values 
+Identified and corrected recurring county name misspelling
+
+### Processing:
+Liquor category recategorization and simplification
+Calculated adult population from percent adults and total population 
+Combined datasets to find per capita sales 
+
 ### Exploration and Conclusions
 Total sales and per-capita sales were measured and visualized across counties during the target period. Liquor categories present in the liquor data were cleaned and simplified. Consumption patterns of liquor types was investigated and visualized across counties and years. 
 
