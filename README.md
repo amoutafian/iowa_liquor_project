@@ -1,15 +1,13 @@
 # Iowa Liquor Sales Analysis
 ## Introduction
-This independent exploratory analysis uses public data on liquor sold in Iowa and US census population data to examine sales trends. This analysis focuses on the ten most populous Iowa counties and the time period 2018-2023.
+This exploratory analysis uses public data on liquor sold in Iowa and US census population data to examine sales trends. 
 
+This analysis focuses on the ten most populous Iowa counties during 2018-2023.
 The ten most populous Iowa counties (out of 100 total counties) comprise 52.6% of the adult (18+) population and represent 59% of the state's total liquor sales (by volume) to Iowa Class “E” liquor licensees–grocery stores, liquor stores, etc.
 
 ## Data Sources
 Liquor Data: https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy
 data.iowa.gov
-
-accessed through: bigquery-public-data.iowa_liquor_sales
-Database/Data warehouse: Big Query
 
 Population Data: United States Census Bureau 
 https://www.census.gov/quickfacts/fact/table/IA/POP010220
